@@ -1,0 +1,8 @@
+{
+  "name": "Arora Real Estate",
+  "description": "Your Dream Home, Our Commitment. Premier real estate consultancy in Krishna Nagar, Delhi for buying, selling, and investing in residential and commercial properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
